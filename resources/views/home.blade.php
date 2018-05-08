@@ -169,7 +169,7 @@
                     </div>
                 </div>
 
-                <button type="button" class="btn btn-primary btn-lg btn-block mt-5">Load More</button>
+                <button type="button" class="btn btn-primary btn-lg btn-block mt-5 mb-5">Load More</button>
             </div>
             <div class="col-md-4">
                 <div class="card" style="position: sticky">

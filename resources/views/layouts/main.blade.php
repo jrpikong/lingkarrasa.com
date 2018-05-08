@@ -20,13 +20,6 @@
     <!-- Styles -->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
     <link href="{{ asset('css/custom.css') }}" rel="stylesheet">
-    <style>
-        /* Note: Try to remove the following lines to see the effect of CSS positioning */
-        .affix {
-            top: 100px;
-            z-index: 9999 !important;
-        }
-    </style>
 </head>
 <body>
     <div id="app">
