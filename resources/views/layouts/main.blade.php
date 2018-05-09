@@ -26,7 +26,7 @@
     <div class="container">
         <header class="blog-header py-3" style="position: -webkit-sticky; ">
             <div class="row flex-nowrap justify-content-between align-items-center">
-                <div class="col-4 pt-1">
+                <div class="col-4 pt-1 subscribe-link">
                     <a class="text-muted" href="#">Subscribe</a>
                 </div>
                 <div class="col-4 text-center">
@@ -62,7 +62,7 @@
                 </div>
             </div>
         </header>
-        <div class="nav-scroller py-1 mb-2" data-spy="affix" data-offset-top="60" data-offset-bottom="200">
+        <div class="nav-scroller py-1 mb-2">
             <nav class="nav d-flex justify-content-between ">
                 <a class="p-2 text-muted" href="#">World</a>
                 <a class="p-2 text-muted" href="#">U.S.</a>

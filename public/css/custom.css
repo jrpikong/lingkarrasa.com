@@ -21,7 +21,14 @@
         font-size: 3rem;
     }
 }
-
+@media (max-width: 768px) {
+    .blog-header-logo {
+        font-size: 1.25rem;
+    }
+    .subscribe-link{
+        display: none;
+    }
+}
 .nav-scroller {
     position: relative;
     z-index: 2;
